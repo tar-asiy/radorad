@@ -1,0 +1,153 @@
+{
+  "rings": [
+    [
+      {
+        "word": "begrüßen",
+        "color": "#FFD300",
+        "sub": [
+          {
+            "word": "willkommen heißen",
+            "color": "#FFE673",
+            "sub": [
+              { "word": "empfangen", "color": "#FFF8BF" },
+              { "word": "herzlich aufnehmen", "color": "#FFF8BF" },
+              { "word": "freudig begrüßen", "color": "#FFF8BF" }
+            ]
+          },
+          {
+            "word": "respektieren",
+            "color": "#FFE673",
+            "sub": [
+              { "word": "anerkennen", "color": "#FFF8BF" },
+              { "word": "wertschätzen", "color": "#FFF8BF" },
+              { "word": "hochachten", "color": "#FFF8BF" }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "unterhalten",
+        "color": "#FA8C00",
+        "sub": [
+          {
+            "word": "plaudern",
+            "color": "#FCB97F",
+            "sub": [
+              { "word": "schwatzen", "color": "#FEE5D0" },
+              { "word": "frotzeln", "color": "#FEE5D0" },
+              { "word": "schäkern", "color": "#FEE5D0" }
+            ]
+          },
+          {
+            "word": "debattieren",
+            "color": "#FCB97F",
+            "sub": [
+              { "word": "streiten", "color": "#FEE5D0" },
+              { "word": "disputieren", "color": "#FEE5D0" }
+            ]
+          },
+          {
+            "word": "flirten",
+            "color": "#FCB97F",
+            "sub": [
+              { "word": "anmachen", "color": "#FEE5D0" },
+              { "word": "umgarnen", "color": "#FEE5D0" },
+              { "word": "den Hof machen", "color": "#FEE5D0" }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "überzeugen",
+        "color": "#8B41D9",
+        "sub": [
+          {
+            "word": "beeinflussen",
+            "color": "#AF80E5",
+            "sub": [
+              { "word": "manipulieren", "color": "#DCC4F5" },
+              { "word": "indoktrinieren", "color": "#DCC4F5" },
+              { "word": "umstimmen", "color": "#DCC4F5" }
+            ]
+          },
+          {
+            "word": "beschwichtigen",
+            "color": "#AF80E5",
+            "sub": [
+              { "word": "besänftigen", "color": "#DCC4F5" },
+              { "word": "milde stimmen", "color": "#DCC4F5" }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "streiten",
+        "color": "#2E64FE",
+        "sub": [
+          {
+            "word": "zanken",
+            "color": "#74A0FE",
+            "sub": [
+              { "word": "fauchen", "color": "#BFD4FE" },
+              { "word": "keifen", "color": "#BFD4FE" },
+              { "word": "hadern", "color": "#BFD4FE" }
+            ]
+          },
+          {
+            "word": "beleidigen",
+            "color": "#74A0FE",
+            "sub": [
+              { "word": "herabsetzen", "color": "#BFD4FE" },
+              { "word": "schmähen", "color": "#BFD4FE" }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "versöhnen",
+        "color": "#49C12A",
+        "sub": [
+          {
+            "word": "verzeihen",
+            "color": "#8BDD73",
+            "sub": [
+              { "word": "begnadigen", "color": "#D0F2C3" },
+              { "word": "Nachsicht üben", "color": "#D0F2C3" },
+              { "word": "Gnade walten lassen", "color": "#D0F2C3" }
+            ]
+          },
+          {
+            "word": "umarmen",
+            "color": "#8BDD73",
+            "sub": [
+              { "word": "herzen", "color": "#D0F2C3" },
+              { "word": "zärtlich halten", "color": "#D0F2C3" }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "anvertrauen",
+        "color": "#CCAA55",
+        "sub": [
+          {
+            "word": "offenbaren",
+            "color": "#DDCC99",
+            "sub": [
+              { "word": "enthüllen", "color": "#EEE6CC" },
+              { "word": "freimütig bekennen", "color": "#EEE6CC" }
+            ]
+          },
+          {
+            "word": "eingestehen",
+            "color": "#DDCC99",
+            "sub": [
+              { "word": "zugeben", "color": "#EEE6CC" },
+              { "word": "gestehen", "color": "#EEE6CC" }
+            ]
+          }
+        ]
+      }
+    ]
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "rings": [
+    [
+      {
+        "word": "gehen",
+        "color": "#FFD300",
+        "sub": [
+          {
+            "word": "herumschleichen",
+            "color": "#FFE673",
+            "sub": [
+              { "word": "pirschen", "color": "#FFF8BF" },
+              { "word": "huschen", "color": "#FFF8BF" }
+            ]
+          },
+          {
+            "word": "kriechen",
+            "color": "#FFE673",
+            "sub": [
+              { "word": "niedrig robben", "color": "#FFF8BF" },
+              { "word": "kauernd vorwärtsbewegen", "color": "#FFF8BF" }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "sehen",
+        "color": "#FA8C00",
+        "sub": [
+          {
+            "word": "erspähen",
+            "color": "#FCB97F",
+            "sub": [
+              { "word": "aufspüren", "color": "#FEE5D0" },
+              { "word": "lokalisieren", "color": "#FEE5D0" }
+            ]
+          },
+          {
+            "word": "mustern",
+            "color": "#FCB97F",
+            "sub": [
+              { "word": "begutachten", "color": "#FEE5D0" },
+              { "word": "inspizieren", "color": "#FEE5D0" }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "hören",
+        "color": "#8B41D9",
+        "sub": [
+          {
+            "word": "horchen",
+            "color": "#AF80E5",
+            "sub": [
+              { "word": "lauschen", "color": "#DCC4F5" },
+              { "word": "hinhören", "color": "#DCC4F5" }
+            ]
+          },
+          {
+            "word": "belauschen",
+            "color": "#AF80E5",
+            "sub": [
+              { "word": "mithorchen", "color": "#DCC4F5" },
+              { "word": "ausspionieren", "color": "#DCC4F5" }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "ablenken",
+        "color": "#2E64FE",
+        "sub": [
+          {
+            "word": "täuschen",
+            "color": "#74A0FE",
+            "sub": [
+              { "word": "irreführen", "color": "#BFD4FE" },
+              { "word": "hinters Licht führen", "color": "#BFD4FE" }
+            ]
+          },
+          {
+            "word": "locken",
+            "color": "#74A0FE",
+            "sub": [
+              { "word": "anziehen", "color": "#BFD4FE" },
+              { "word": "ködern", "color": "#BFD4FE" },
+              { "word": "weglocken", "color": "#BFD4FE" }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "nehmen",
+        "color": "#49C12A",
+        "sub": [
+          {
+            "word": "stehlen",
+            "color": "#8BDD73",
+            "sub": [
+              { "word": "klauen", "color": "#D0F2C3" },
+              { "word": "entwenden", "color": "#D0F2C3" }
+            ]
+          },
+          {
+            "word": "einstecken",
+            "color": "#8BDD73",
+            "sub": [
+              { "word": "unauffällig wegstecken", "color": "#D0F2C3" },
+              { "word": "beschlagnahmen", "color": "#D0F2C3" }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "weggehen",
+        "color": "#CCAA55",
+        "sub": [
+          {
+            "word": "verschwinden",
+            "color": "#DDCC99",
+            "sub": [
+              { "word": "sich davonmachen", "color": "#EEE6CC" },
+              { "word": "unbemerkt entgleiten", "color": "#EEE6CC" }
+            ]
+          },
+          {
+            "word": "fliehen",
+            "color": "#DDCC99",
+            "sub": [
+              { "word": "ausreißen", "color": "#EEE6CC" },
+              { "word": "entkommen", "color": "#EEE6CC" }
+            ]
+          }
+        ]
+      }
+    ]
+  ]
+}

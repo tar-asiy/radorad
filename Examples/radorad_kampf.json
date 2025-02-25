@@ -1,0 +1,441 @@
+{
+  "rings": [
+    [
+      {
+        "word": "heilen",
+        "color": "#77AAFF",
+        "sub": [
+          {
+            "word": "stabilisieren",
+            "sub": [
+              {
+                "word": "Blutung stillen"
+              },
+              {
+                "word": "verbinden"
+              },
+              {
+                "word": "Wunden versorgen"
+              }
+            ]
+          },
+          {
+            "word": "wiederherstellen",
+            "sub": [
+              {
+                "word": "Wunde verschließen"
+              },
+              {
+                "word": "vitalisieren"
+              },
+              {
+                "word": "läutern"
+              }
+            ]
+          },
+          {
+            "word": "segnen",
+            "sub": [
+              {
+                "word": "heiligen"
+              },
+              {
+                "word": "einweihen"
+              },
+              {
+                "word": "beseelen"
+              }
+            ]
+          },
+          {
+            "word": "wiederbeleben",
+            "sub": [
+              {
+                "word": "auferwecken"
+              },
+              {
+                "word": "animieren"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "zaubern",
+        "color": "#8B41D9",
+        "sub": [
+          {
+            "word": "hexen",
+            "sub": [
+              {
+                "word": "entweihen"
+              },
+              {
+                "word": "verseuchen"
+              },
+              {
+                "word": "verfluchen"
+              }
+            ]
+          },
+          {
+            "word": "beschwören",
+            "sub": [
+              {
+                "word": "herbeirufen"
+              },
+              {
+                "word": "heraufbeschwören"
+              },
+              {
+                "word": "hervorrufen"
+              }
+            ]
+          },
+          {
+            "word": "verzaubern",
+            "sub": [
+              {
+                "word": "durchgeisten"
+              },
+              {
+                "word": "verwandeln"
+              },
+              {
+                "word": "einen Bann wirken"
+              }
+            ]
+          },
+          {
+            "word": "entgegenwirken",
+            "sub": [
+              {
+                "word": "kontern"
+              },
+              {
+                "word": "Zauber bannen"
+              },
+              {
+                "word": "Fluch brechen"
+              }
+            ]
+          },
+          {
+            "word": "Zauber wirken",
+            "sub": [
+              {
+                "word": "Magie bündeln"
+              },
+              {
+                "word": "Formeln intonieren"
+              },
+              {
+                "word": "Ritual vollziehen"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "befehlen",
+        "color": "#CCAA55",
+        "sub": [
+          {
+            "word": "durchplanen",
+            "sub": [
+              {
+                "word": "kalkulieren"
+              },
+              {
+                "word": "feinabstimmen"
+              }
+            ]
+          },
+          {
+            "word": "anordnen",
+            "sub": [
+              {
+                "word": "gebieten"
+              },
+              {
+                "word": "dirigieren"
+              },
+              {
+                "word": "aufstellen"
+              }
+            ]
+          },
+          {
+            "word": "motivieren",
+            "sub": [
+              {
+                "word": "ermutigen"
+              },
+              {
+                "word": "anfeuern"
+              },
+              {
+                "word": "anspornen"
+              }
+            ]
+          },
+          {
+            "word": "delegieren",
+            "sub": [
+              {
+                "word": "beauftragen"
+              },
+              {
+                "word": "zuweisen"
+              },
+              {
+                "word": "einteilen"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "bewegen",
+        "color": "#66CC99",
+        "sub": [
+          {
+            "word": "manövrieren",
+            "sub": [
+              {
+                "word": "seitlich umlaufen"
+              },
+              {
+                "word": "flankieren"
+              },
+              {
+                "word": "in den Rücken fallen"
+              }
+            ]
+          },
+          {
+            "word": "sich zurückziehen",
+            "sub": [
+              {
+                "word": "Rückzug antreten"
+              },
+              {
+                "word": "retirieren"
+              },
+              {
+                "word": "dahinschwinden"
+              }
+            ]
+          },
+          {
+            "word": "fliehen",
+            "sub": [
+              {
+                "word": "entkommen"
+              },
+              {
+                "word": "davonstürzen"
+              },
+              {
+                "word": "ausreißen"
+              }
+            ]
+          },
+          {
+            "word": "anrennen",
+            "sub": [
+              {
+                "word": "anstürmen"
+              },
+              {
+                "word": "hineinpreschen"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "angreifen",
+        "color": "#CC6666",
+        "sub": [
+          {
+            "word": "immobilisieren",
+            "sub": [
+              {
+                "word": "verstricken"
+              },
+              {
+                "word": "anpacken"
+              },
+              {
+                "word": "niederringen"
+              }
+            ]
+          },
+          {
+            "word": "schlagen",
+            "sub": [
+              {
+                "word": "wuchten"
+              },
+              {
+                "word": "stampfen"
+              },
+              {
+                "word": "schmettern"
+              }
+            ]
+          },
+          {
+            "word": "hieben",
+            "sub": [
+              {
+                "word": "aushauen"
+              },
+              {
+                "word": "abhacken"
+              },
+              {
+                "word": "zerspalten"
+              }
+            ]
+          },
+          {
+            "word": "stechen",
+            "sub": [
+              {
+                "word": "aufspießen"
+              },
+              {
+                "word": "durchstoßen"
+              }
+            ]
+          },
+          {
+            "word": "schießen",
+            "sub": [
+              {
+                "word": "Bogen spannen"
+              },
+              {
+                "word": "Pfeil schnellen"
+              },
+              {
+                "word": "Geschoss abfeuern"
+              }
+            ]
+          },
+          {
+            "word": "zernichten",
+            "sub": [
+              {
+                "word": "niederstrecken"
+              },
+              {
+                "word": "auslöschen"
+              },
+              {
+                "word": "vertilgen"
+              }
+            ]
+          },
+          {
+            "word": "treffen",
+            "sub": [
+              {
+                "word": "aufsetzen"
+              },
+              {
+                "word": "tangieren"
+              },
+              {
+                "word": "verfehlen"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "schützen",
+        "color": "#FFD300",
+        "sub": [
+          {
+            "word": "ausweichen",
+            "sub": [
+              {
+                "word": "wegducken"
+              },
+              {
+                "word": "abrollen"
+              },
+              {
+                "word": "weghechten"
+              }
+            ]
+          },
+          {
+            "word": "verstecken",
+            "sub": [
+              {
+                "word": "Deckung finden"
+              },
+              {
+                "word": "unterstellen"
+              }
+            ]
+          },
+          {
+            "word": "verstärken",
+            "sub": [
+              {
+                "word": "verschanzen"
+              },
+              {
+                "word": "verbarrikadieren"
+              },
+              {
+                "word": "befestigen"
+              }
+            ]
+          },
+          {
+            "word": "beschützen",
+            "sub": [
+              {
+                "word": "abschirmen"
+              },
+              {
+                "word": "verteidigen"
+              },
+              {
+                "word": "bewachen"
+              }
+            ]
+          },
+          {
+            "word": "blocken",
+            "sub": [
+              {
+                "word": "abfangen"
+              },
+              {
+                "word": "parieren"
+              }
+            ]
+          },
+          {
+            "word": "widerstehen",
+            "sub": [
+              {
+                "word": "trotzen"
+              },
+              {
+                "word": "standhalten"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  ]
+}

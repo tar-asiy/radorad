@@ -1,0 +1,254 @@
+{
+  "rings": [
+    [
+      {
+        "word": "Grunderscheinung",
+        "color": "#FFD300",
+        "sub": [
+          {
+            "word": "kräftig",
+            "sub": [
+              {
+                "word": "stämmig"
+              },
+              {
+                "word": "muskelbepackt"
+              },
+              {
+                "word": "robust"
+              }
+            ]
+          },
+          {
+            "word": "schlank",
+            "sub": [
+              {
+                "word": "hochgewachsen"
+              },
+              {
+                "word": "gertenschlank"
+              },
+              {
+                "word": "drahtig"
+              }
+            ]
+          },
+          {
+            "word": "rundlich",
+            "sub": [
+              {
+                "word": "wohlgenährt"
+              },
+              {
+                "word": "korpulent"
+              },
+              {
+                "word": "beleibt"
+              }
+            ]
+          },
+          {
+            "word": "zierlich",
+            "sub": [
+              {
+                "word": "schmächtig"
+              },
+              {
+                "word": "feingliedrig"
+              },
+              {
+                "word": "zerbrechlich"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "Gesicht",
+        "color": "#FA8C00",
+        "sub": [
+          {
+            "word": "kantig",
+            "sub": [
+              {
+                "word": "markant"
+              },
+              {
+                "word": "scharf geschnitten"
+              },
+              {
+                "word": "herb"
+              }
+            ]
+          },
+          {
+            "word": "weich",
+            "sub": [
+              {
+                "word": "rundlich"
+              },
+              {
+                "word": "ebenmäßig"
+              },
+              {
+                "word": "sanft"
+              }
+            ]
+          },
+          {
+            "word": "knochig",
+            "sub": [
+              {
+                "word": "hager"
+              },
+              {
+                "word": "eingefallen"
+              },
+              {
+                "word": "asketisch"
+              }
+            ]
+          },
+          {
+            "word": "schief",
+            "sub": [
+              {
+                "word": "ungleichmäßig"
+              },
+              {
+                "word": "verschoben"
+              },
+              {
+                "word": "verzerrt"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "Besonderheiten",
+        "color": "#8B41D9",
+        "sub": [
+          {
+  "word": "gezeichnet",
+  "sub": [
+    {
+      "word": "verstümmelt"
+    },
+    {
+      "word": "vernarbt"
+    },
+    {
+      "word": "entstellt"
+    }
+  ]
+},
+          {
+            "word": "bemalt",
+            "sub": [
+              {
+                "word": "tätowiert"
+              },
+              {
+                "word": "kunstvoll verziert"
+              },
+              {
+                "word": "reichlich geschmückt"
+              }
+            ]
+          },
+          {
+            "word": "verwandelt",
+            "sub": [
+              {
+                "word": "verformt"
+              },
+              {
+                "word": "umgestaltet"
+              },
+              {
+                "word": "entartet"
+              }
+            ]
+          },
+          {
+  "word": "mitgenommen",
+  "sub": [
+    {
+      "word": "abgespannt"
+    },
+    {
+      "word": "ausgezehrt"
+    },
+    {
+      "word": "heruntergekommen"
+    }
+  ]
+}
+        ]
+      },
+      {
+        "word": "Gesamteindruck",
+        "color": "#2E64FE",
+        "sub": [
+          {
+            "word": "gepflegt",
+            "sub": [
+              {
+                "word": "makellos"
+              },
+              {
+                "word": "kultiviert"
+              },
+              {
+                "word": "vollendet"
+              }
+            ]
+          },
+          {
+            "word": "schlampig",
+            "sub": [
+              {
+                "word": "verwahrlost"
+              },
+              {
+                "word": "heruntergekommen"
+              },
+              {
+                "word": "schäbig"
+              }
+            ]
+          },
+          {
+            "word": "auffällig",
+            "sub": [
+              {
+                "word": "extravagant"
+              },
+              {
+                "word": "prächtig"
+              },
+              {
+                "word": "imposant"
+              }
+            ]
+          },
+          {
+            "word": "schlicht",
+            "sub": [
+              {
+                "word": "bescheiden"
+              },
+              {
+                "word": "dezent"
+              },
+              {
+                "word": "zurückhaltend"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  ]
+}
